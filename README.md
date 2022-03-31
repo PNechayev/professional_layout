@@ -1,1 +1,1 @@
-# professional_layout
+Учебный проект по курсу "Профессиональная верстка" от GeekBrains
